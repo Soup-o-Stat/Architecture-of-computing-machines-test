@@ -1,6 +1,6 @@
 # Вопросы на зачет по АВМ
 ## СОДЕРЖАНИЕ
- - [Блок вопросов 1]()
+ - [Блок вопросов 1](https://github.com/Soup-o-Stat/Architecture-of-computing-machines-test/blob/main/README.md#%D0%B1%D0%BB%D0%BE%D0%BA-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2-1)
  - [Блок вопросов 2]()
 ## Блок вопросов 1
 ### 1. Вычислительная машина - это...
